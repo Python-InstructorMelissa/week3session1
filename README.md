@@ -1,4 +1,4 @@
-# week4session1
+# week3session1
 
 # Download and install mysql:
 FOLLOW ALL INSTRUCTIONS ON PLATFORM
@@ -47,4 +47,8 @@ used to store a date and time in the format YYYY-MM-DD hh:mm:ss
 
 
 ## Link
-https://www.w3schools.com/sql/trysql.asp?filename=trysql_asc
+https://www.w3schools.com/mySQl/mysql_sql.asp
+
+https://www.w3schools.com/mySQl/trymysql.asp?filename=trysql_select_all
+
+
