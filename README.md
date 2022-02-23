@@ -53,3 +53,4 @@ https://www.w3schools.com/mySQl/trymysql.asp?filename=trysql_select_all
 
 
 https://docs.google.com/presentation/d/12no9kQHIPItACHD6x4mXEV6Hpd47VSvzhXeAcYvtvCY/edit?usp=sharing
+https://app.peardeck.com/student/trjkqyequ
